@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/cardgame/static/css/main.eb996a3a.css",
-    "main.js": "/cardgame/static/js/main.65d7c913.js",
+    "main.css": "/cardgame/static/css/main.015c5607.css",
+    "main.js": "/cardgame/static/js/main.e8603b11.js",
+    "static/media/background.jpg": "/cardgame/static/media/background.4db38deb0b6f2c96bc5f.jpg",
     "static/media/bulbasaur.png": "/cardgame/static/media/bulbasaur.24632df7824819faab87.png",
     "static/media/ivysaur.png": "/cardgame/static/media/ivysaur.905c2f1c8de8538fe863.png",
     "static/media/venusaur.png": "/cardgame/static/media/venusaur.927fdb70dd8e50cc0f3a.png",
@@ -11,11 +12,11 @@
     "static/media/charmeleon.png": "/cardgame/static/media/charmeleon.562c7d43b1d431f11c83.png",
     "static/media/charmander.png": "/cardgame/static/media/charmander.8d16ae7e65a59a39488d.png",
     "index.html": "/cardgame/index.html",
-    "main.eb996a3a.css.map": "/cardgame/static/css/main.eb996a3a.css.map",
-    "main.65d7c913.js.map": "/cardgame/static/js/main.65d7c913.js.map"
+    "main.015c5607.css.map": "/cardgame/static/css/main.015c5607.css.map",
+    "main.e8603b11.js.map": "/cardgame/static/js/main.e8603b11.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb996a3a.css",
-    "static/js/main.65d7c913.js"
+    "static/css/main.015c5607.css",
+    "static/js/main.e8603b11.js"
   ]
 }
